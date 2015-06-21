@@ -14,4 +14,4 @@ The script does the following:
   - From the data set in previous steps, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   - Writes the resulting data set to UCI_HAR_Averages.txt
 
-_codebook.txt_ - file describing the data and variable for the dataset which results from running run_analysis.R
+_codebook.md_ - file describing the data and variable for the dataset which results from running run_analysis.R
